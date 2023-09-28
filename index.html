@@ -22,42 +22,61 @@
         }
 
         .module {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
             margin: 20px;
         }
 
-        .module a {
-            display: block;
-            background-color: #fff;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            padding: 20px;
-            text-decoration: none;
-            color: #333;
-            font-weight: bold;
-            transition: background-color 0.3s ease;
+        .module h2 {
+            font-size: 24px;
         }
 
-        .module a:hover {
-            background-color: #007bff;
-            color: #fff;
+        .sub-links {
+            list-style: none;
+            padding: 0;
+        }
+
+        .sub-links li {
+            margin: 10px 0;
+        }
+
+        .sub-links a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+
+        .sub-links a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>多功能导航页</h1>
-    </header>
-    <div class="module">
-        <a href="#">软件</a>
-        <a href="#">工具</a>
-        <a href="#">社交</a>
-        <a href="#">学习</a>
-        <a href="#">娱乐</a>
-        <a href="#">工作创造</a>
-        <a href="#">其他</a>
-    </div>
+<header>
+    <h1>多功能导航页</h1>
+</header>
+<div class="module">
+    <h2>软件</h2>
+    <ul class="sub-links">
+        <li><a href="#">软件功能1</a></li>
+        <li><a href="#">软件功能2</a></li>
+        <li><a href="#">软件功能3</a></li>
+    </ul>
+</div>
+<div class="module">
+    <h2>工具</h2>
+    <ul class="sub-links">
+        <li><a href="#">工具功能1</a></li>
+        <li><a href="#">工具功能2</a></li>
+        <li><a href="#">工具功能3</a></li>
+    </ul>
+</div>
+<div class="module">
+    <h2>社交</h2>
+    <ul class="sub-links">
+        <li><a href="#">社交功能1</a></li>
+        <li><a href="#">社交功能2</a></li>
+        <li><a href="#">社交功能3</a></li>
+    </ul>
+</div>
+<!-- 在其他模块下添加类似的结构 -->
 </body>
 </html>
