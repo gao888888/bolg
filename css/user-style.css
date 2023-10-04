@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+#header:not(.sticky-header) #logo a {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.c12558 {
+    font-size: 52px;
+    letter-spacing: 10px;
+    word-spacing: 5px;
+}
+
+.c12577 {
+    color: #888;
+    letter-spacing: 10px;
+    font-size: 18px;
+}
+
+.c12595 {
+    max-width: 600px;
+    line-height: 1.8;
+    color: #AAA;
+}
+
+.c12519 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/html-template/one-page/images/page/1.jpg');
+    background-position: top center;
+}
+
+.c12872 {
+    max-width: 700px;
+    font-size: 40px;
+}
+
+.c12891 {
+    max-width: 800px;
+}
+
+.c12909 {
+    font-size: 16px;
+}
+
+.c12959 {
+    max-width: 1000px;
+}
+
+.c13657 {
+    max-width: 900px;
+}
+
+.c14959 {
+    max-width: 900px;
+}
+
+.c15024 {
+    background: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/html-template/images/services/main-bg.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.c15557 {
+    position: relative;
+    top: -3px;
+}
+
+.c15532 {
+    max-width: 900px;
+}
+
+.c15601 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/html-template/one-page/images/page/testimonials.jpg');
+    padding: 150px 0;
+}
+
+.c17023 {
+    line-height: 1.7;
+}
+
+.c17105 {
+    line-height: 1.7;
+}
+
+.c17015 {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.c16981 {
+    background-color: #F5F5F5;
+}
+
+.c17600 {
+    display: block;
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+.c17360 {
+    max-width: 850px;
+}
