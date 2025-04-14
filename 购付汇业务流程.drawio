@@ -62,8 +62,8 @@
         <mxCell id="mhFruL-NDtNIBo43Z1rL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" edge="1" parent="mhFruL-NDtNIBo43Z1rL-14" source="mhFruL-NDtNIBo43Z1rL-15" target="mhFruL-NDtNIBo43Z1rL-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhFruL-NDtNIBo43Z1rL-15" value="线下acs转账" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="mhFruL-NDtNIBo43Z1rL-14">
-          <mxGeometry x="20" y="50" width="80" height="40" as="geometry" />
+        <mxCell id="mhFruL-NDtNIBo43Z1rL-15" value="线下充值：&lt;br&gt;微信、支付宝、acs转账" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="mhFruL-NDtNIBo43Z1rL-14">
+          <mxGeometry x="20" y="40" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mhFruL-NDtNIBo43Z1rL-16" value="3.2、通知充值结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="mhFruL-NDtNIBo43Z1rL-14">
           <mxGeometry x="20" y="110" width="80" height="40" as="geometry" />
