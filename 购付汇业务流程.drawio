@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mhFruL-NDtNIBo43Z1rL-1" value="注册" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
+        <mxCell id="mhFruL-NDtNIBo43Z1rL-1" value="step_1:注册" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="50" width="390" height="230" as="geometry" />
         </mxCell>
         <mxCell id="mhFruL-NDtNIBo43Z1rL-2" value="商户" style="swimlane;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="mhFruL-NDtNIBo43Z1rL-1">
@@ -45,7 +45,7 @@
         <mxCell id="mhFruL-NDtNIBo43Z1rL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" edge="1" parent="mhFruL-NDtNIBo43Z1rL-1" source="mhFruL-NDtNIBo43Z1rL-8" target="mhFruL-NDtNIBo43Z1rL-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhFruL-NDtNIBo43Z1rL-11" value="充值" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
+        <mxCell id="mhFruL-NDtNIBo43Z1rL-11" value="step_2充值" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="390" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mhFruL-NDtNIBo43Z1rL-12" value="" style="swimlane;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="mhFruL-NDtNIBo43Z1rL-11">
@@ -74,7 +74,7 @@
         <mxCell id="mhFruL-NDtNIBo43Z1rL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" edge="1" parent="mhFruL-NDtNIBo43Z1rL-11" source="mhFruL-NDtNIBo43Z1rL-16" target="mhFruL-NDtNIBo43Z1rL-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhFruL-NDtNIBo43Z1rL-27" value="汇款" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
+        <mxCell id="mhFruL-NDtNIBo43Z1rL-27" value="step_3汇款" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="390" height="540" as="geometry" />
         </mxCell>
         <mxCell id="mhFruL-NDtNIBo43Z1rL-28" value="" style="swimlane;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="mhFruL-NDtNIBo43Z1rL-27">
